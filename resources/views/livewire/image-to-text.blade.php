@@ -6,6 +6,8 @@
             <img src="{{ asset('logo.png') }}" alt="logo" width="430px">
         </div>
         
+
+        
         <div class="text-white">
 
             {{-- <form wire:submit="save">
